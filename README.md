@@ -8,7 +8,7 @@ Created a Freelancer site using HTML and CSS
 ​
 ## Project GIF
 ​
-![proje image](/Ekran-Kayd%C4%B1-2022-10-17-18.02.18.gif)
+![proje image](/MTVideo.gif)
 
 ## Technologies used
 ​
